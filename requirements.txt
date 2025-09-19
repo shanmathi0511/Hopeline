@@ -1,0 +1,11 @@
+streamlit
+requests
+speechrecognition
+pytesseract
+transformers
+torch
+PyMuPDF
+python-docx
+Pillow
+folium
+streamlit-folium
